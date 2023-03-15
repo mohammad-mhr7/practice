@@ -1,0 +1,27 @@
+h1{
+    border: 2px solid gray;
+    color: blueviolet;
+    border-radius: 20%;
+    display: inline;
+    padding: 10px;
+    position: relative;
+}
+.center{
+  text-align: center;
+  background-color: aquamarine;
+}
+div{
+    text-align: center;
+    color: black;
+    margin-top: 10px;
+}
+img{
+    width: 800px;
+  height: 600px;
+  object-position: center;
+  border: 5px solid gainsboro;
+}
+
+form.asli label{
+  color: blueviolet;
+}
